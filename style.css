@@ -1,0 +1,50 @@
+.body{
+    background-color: rgb(0, 0, 0);
+}
+
+/* header */
+.header{
+    color: rgb(203, 223, 30);
+    background-image: url("logo.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    padding: 200px 0;
+}
+
+/* profile */
+.profile img{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 80px;
+}
+.profile h2{
+    color: rgb(203, 223, 30);
+}
+
+/* SkillAbout */
+.SkillAbout h3{
+    color: rgb(203, 223, 30);
+}
+.SkillAbout p{
+    font-style: italic;
+    word-spacing: 4px;
+}
+.SkillAbout h6{
+    color: white;
+}
+.SkillAbout p{
+    color: white;
+    line-height: 40px;
+}
+
+/* Footer */
+.footer{
+    color: black;
+    background-color: rgb(203, 223, 30);
+    padding: 70px 0;
+}
+.footer i{
+    color: black;
+}
