@@ -1,5 +1,5 @@
 .body{
-    background-color: rgb(233, 233, 233);
+    background-color: rgb(255, 255, 255);
 }
 
 /* header */
@@ -37,6 +37,44 @@
 .SkillAbout p{
     color: rgb(0, 0, 0);
     line-height: 40px;
+}
+
+/* My Creation */
+.creation a{
+    color: white;
+}
+.creation h3{
+    color: rgb(62, 0, 177);
+}
+.kalay{
+    background-image: url("kalay.jpg");
+    background-size: cover;
+    padding: 70px 20px;
+    border-radius: 30px;
+}
+.central{
+    background-image: url("central.jpg");
+    background-size: cover;
+    padding: 70px 20px;
+    border-radius: 30px;
+}
+.landing{
+    background-image: url("landing.jpg");
+    background-size: cover;
+    padding: 70px 20px;
+    border-radius: 30px;
+}
+.solution{
+    background-image: url("solution.jpg");
+    background-size: cover;
+    padding: 70px 20px;
+    border-radius: 30px;
+}
+.neuron{
+    background-image: url("neuron.jpg");
+    background-size: cover;
+    padding: 70px 20px;
+    border-radius: 30px;
 }
 
 /* Footer */
